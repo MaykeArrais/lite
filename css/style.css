@@ -41,18 +41,21 @@ p {
 .site-logo {	
 	margin-top:40px;
 	margin-bottom:40px;
-  margin-left: 200px;
-    float: left;
+    
 }
 
-.site-logo a.brand {
+.site-logo h1{
+  text-align: center;
+}
+
+.site-logo h1.brand {
 	color: #2487cd;	
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 900;
 	
 }
-.site-logo a.brand:hover {
+.site-logo h1.brand:hover {
 	text-decoration:none;
 }
 
